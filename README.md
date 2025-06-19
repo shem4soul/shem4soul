@@ -1,6 +1,6 @@
  **📌 Backend Developer Portfolio – Emmanuel Shittu**  
 
-🚀 **Innovative and performance-driven backend developer** with **one year of experience** building scalable, efficient web applications using **Node.js, Express, MongoDB, and JavaScript** following the **MVC architecture**. Skilled in developing **robust APIs, secure authentication systems, and optimizing database performance**. Passionate about delivering high-quality solutions through **continuous learning and collaboration**.  
+🚀 **Innovative and performance-driven backend developer** with **three year of experience** building scalable, efficient web applications using **Node.js, nest js, Express, MongoDB, Typescript and JavaScript** following the **MVC architecture**. Skilled in developing **robust APIs, secure authentication systems, and optimizing database performance**. Passionate about delivering high-quality solutions through **continuous learning and collaboration**.  
 
 **📚 Education**  
 🎓 **BSc Finance** – University of Benin *(10/2018)*  
