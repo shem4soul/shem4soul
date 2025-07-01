@@ -61,8 +61,8 @@
 
  **🛠 Tech Stack & Skills**  
 **Backend Development**  
-✅ **Node.js**, **Express.js**, 
-✅ **MongoDB (Atlas)**, **Mongoose**  
+✅ **Node.js**, **Express.js**, **Nest Js**
+✅ **MongoDB (Atlas)**, **Mongoose**, **PostgreSQL**, **SQL**  
 ✅ **RESTful API Design**,   
 
 **Authentication & Security**  
