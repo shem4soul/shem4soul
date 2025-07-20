@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Emmanuel Shittu
 
-I’m a **Backend Developer** and **DevOps enthusiast** based in Lagos, Nigeria. With 3+ years of hands-on experience, I specialize in building secure, scalable systems using **Node.js**, **TypeScript**, and **NestJS**. I'm also passionate about DevOps automation and improving developer workflows.
+I'm a **Backend Developer** and **DevOps enthusiast** with 3+ years of experience designing and building reliable APIs, backend systems, and cloud-ready infrastructure. I specialize in **Node.js**, **TypeScript**, and **NestJS**, and I'm passionate about clean code, automation, and contributing to meaningful software projects.
 
 ---
 
-## 👨‍💻 What I Do
+## 👨‍💻 Currently
 
-- 💼 Backend Developer at **Divnerix Innovations** (Lagos)
+- 💼 Backend Developer at **Divnerix Innovations** (Lagos, Nigeria)
 - 🤝 Volunteer Developer at **ScholarGuide** and **Ed3Hub** (Web3 Education Platform)
-- ⚙️ DevOps enthusiast: CI/CD, Docker, process automation
-- 🧠 CareerEx Certified Backend Developer
+- 📊 Backend Developer at **In-box Elite**
+- 
 
 ---
 
@@ -17,37 +17,52 @@ I’m a **Backend Developer** and **DevOps enthusiast** based in Lagos, Nigeria.
 
 - **Languages**: JavaScript (ES6+), TypeScript  
 - **Frameworks**: Node.js, NestJS, Express  
-- **Databases**: MongoDB, PostgreSQL  
-- **DevOps Tools**: GitHub Actions, Docker, PM2, NGINX  
-- **Other Tools**: Postman, Swagger, Cloudinary, Paystack API  
+- **Databases**: PostgreSQL, MongoDB  
+- **DevOps**: Docker, GitHub Actions, PM2, NGINX  
+- **Others**: Swagger, Cloudinary, Paystack API, FFMPEG, QR Code APIs
 
 ---
 
-## 🧩 Projects & Contributions
+## 🚀 Projects & Highlights
 
-- 🏋️‍♂️ **Fitness Tracker** – Track workouts, nutrition, and personal goals  
-- 🍔 **Food Delivery Platform** – Real-time order and delivery management  
-- 🎓 **ScholarGuide** – Student learning, event, and donation platform  
-- 🧪 **Online Quiz Platform** – Custom quizzes with result analytics  
-- 💰 **Expense Tracker** – Manage income, expenses, and budgeting goals  
+- 🛒 **E-Commerce Platform**  
+  Built a full-featured backend for an online store with user authentication, product management, cart system, and order tracking.
+
+- 🎬 **QR Code Movie Generator**  
+  Developed a system that generates QR codes for movies using **NestJS**, **TypeScript**, and **PostgreSQL**, including tracking and analytics.
+
+- 💼 **Job API Platform**  
+  REST API to manage job listings, user applications, and recruiter dashboards. Focused on modular architecture and secure access control.
+
+- 🏋️‍♂️ **Fitness Tracker**  
+  Track workouts, nutrition, and goals with secure data handling.
+
+- 🍔 **Food Delivery Platform**  
+  Real-time order processing and delivery management.
+
+- 🎓 **ScholarGuide**  
+  Event and donation platform for students with learning progress tracking.
+
+- 🧪 **Online Quiz App**  
+  Custom quiz creation and analytics engine.
 
 ---
 
-## 🚀 Current Focus
+## 📌 Focus Areas
 
-- Deepening expertise in **TypeScript** and **NestJS**
-- Strengthening **DevOps** knowledge (CI/CD, scaling, monitoring)
-- Building full-stack projects with **React + Node.js**
-
+- Deepening my NestJS + TypeScript architecture knowledge  
+- Practicing DevOps automation (CI/CD, Dockerized pipelines)  
+- Full-stack development (React + Node.js backend)  
+- Open-source contributions and Web3 education platforms
 
 ---
 
 ## 🏆 Achievements
 
 - 👨‍💻 3+ years of backend development experience
-- 🧑‍🎓 Backend Development Certification (CareerEx, 2024)
-- 📊 Data Analyst at In-box Elite
-- 🤝 Contributor to open-source & volunteer Web3 projects (Ed3Hub, ScholarGuide)
+- 🎓 Backend Development Certification – CareerEx (2024)
+- 🛠 Built and deployed 10+ real-world applications
+- 🤝 Contributor to **Ed3Hub** and **ScholarGuide** as a volunteer engineer
 
 ---
 
