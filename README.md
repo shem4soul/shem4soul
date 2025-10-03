@@ -60,8 +60,8 @@ I'm a **Backend Developer** and **DevOps enthusiast** with 3+ years of experienc
 ## 🏆 Achievements
 
 - 👨‍💻 3+ years of backend development experience
-- 🎓 Backend Development Certification – CareerEx (2024)
-- 🛠 Built and deployed 10+ real-world applications
+  
+- 🛠 Built and deployed 20+ real-world applications
 - 🤝 Contributor to **Ed3Hub** and **ScholarGuide** as a volunteer engineer
 
 ---
